@@ -1,5 +1,27 @@
 {
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
-  }
+    "json-server": "^1.0.0-beta.1",
+    "y": "^0.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "calculator-server",
+  "description": "calculator json server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jachvictor/calculator-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "jach victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jachvictor/calculator-server/issues"
+  },
+  "homepage": "https://github.com/jachvictor/calculator-server#readme"
 }
